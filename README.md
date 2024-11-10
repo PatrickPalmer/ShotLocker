@@ -1,4 +1,8 @@
-# ShotLocker Project Placeholder
+# ShotLocker Project 
 
-This is the ShotLocker Project Placeholder. The intent to release this project on github.com with a MIT-0 very permissive open source license once beta has completed. Once released on the AWS github account, this page and the link will be updated.
+The Shot Locker Project demonstrates how feature film or TV episodic Editorial Cut can be used as organizing Cloud permissions access for third party personnel such as VFX Vendors to the production media. This mechanism is a small but critical part of the Content Lake Cloud solution.
+
+
+ * [AWS Blog: Managing media access in a content lake using Shot Locker](https://aws.amazon.com/blogs/media/managing-media-access-in-a-content-lake-using-shot-locker/)
+ * [Github repo: Managing Media Access in a Content Lake](https://github.com/aws-samples/content_lake_media_access_control)
 
