@@ -1,6 +1,6 @@
 # Managing Media Access in a Content Lake
 
-[AWS Blog: Managing media access in a content lake using Shot Locker](AWS Blog/README.md)
+[AWS Blog: Managing media access in a content lake using Shot Locker](AWS_Blog/README.md)
 
 The Shot Locker Project demonstrates how feature film or TV episodic Editorial Cut can be used as organizing Cloud permissions access for third party personnel such as VFX Vendors to the production media. This mechanism is a small but critical part of the Content Lake Cloud solution. As Hollywood Studios move production into the cloud, adoption will be driven by solutions that integrate into well-established industry workflows without adding any additional technical burden.
 

@@ -69,7 +69,7 @@ In this post, we described how an editorial cut can be used to manage access to 
 **Patrick Palmer**
 
 <p align="center">
-  <img src="images/Patrick-Palmer.png"  width=20% height=20%>
+  <img src="images/Patrick-Palmer.jpg"  width=20% height=20%>
 </p>
 
 Patrick Palmer is a Principal Solutions Architect for Games, Immersive, and AI/ML at AWS. He has led in the real-time 3D technology space for 25+ years, developing cutting-edge technologies and helping entertainment industry customers to navigate their greatest challenges.
@@ -77,7 +77,7 @@ Patrick Palmer is a Principal Solutions Architect for Games, Immersive, and AI/M
 **Zach Willner**
 
 <p align="center">
-  <img src="images/Zach-Willner.png"  width=20% height=20%>
+  <img src="images/Zach-Willner.jpg"  width=20% height=20%>
 </p>
 
 Zach is a Senior Partner Solutions Architect for Media and Entertainment at AWS. His role is building a diverse ecosystem of partners on AWS for Media and Entertainment.
