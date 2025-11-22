@@ -37,6 +37,7 @@ Shot Locker is a [serverless](https://aws.amazon.com/serverless/) application de
 When an edit is uploaded, Step Functions orchestrates validation, conversion to the OpenTimelineIO interchange format, identifies referenced assets in S3, and tags those assets. S3 bucket policies are updated to grant and revoke access based on the tags.
 
 ![](images/CL-Image-2.jpg)
+
 _Figure 1 depicts the reference architecture for building the access control in a content lake on AWS._
 
 The architecture is designed with security in mind. Only editors have permissions to grant vendor access to the content repository. The website never handles or stores actual production media.
@@ -66,9 +67,19 @@ In this post, we described how an editorial cut can be used to manage access to 
 ### Authors
 
 **Patrick Palmer**
+
+<p align="center">
+  <img src="images/Patrick-Palmer.png"  width=20% height=20%>
+</p>
+
 Patrick Palmer is a Principal Solutions Architect for Games, Immersive, and AI/ML at AWS. He has led in the real-time 3D technology space for 25+ years, developing cutting-edge technologies and helping entertainment industry customers to navigate their greatest challenges.
 
 **Zach Willner**
+
+<p align="center">
+  <img src="images/Zach-Willner.png"  width=20% height=20%>
+</p>
+
 Zach is a Senior Partner Solutions Architect for Media and Entertainment at AWS. His role is building a diverse ecosystem of partners on AWS for Media and Entertainment.
 
 
